@@ -1,0 +1,26 @@
+{
+  "msgId": "TEST0019",
+  "creationDtTime": "2017-09-04T22:10:00",
+  "payments": [
+  {
+    "reqdExctnDt": "2016-06-10",
+    "instdAmt": "500.00",
+    "ccy": "EUR",
+    "instrPrty": "NORM",
+
+    "dbtr": {
+      "acct": "NL76RABO0123456789",
+      "agt": "RABONL2U",
+      "nm": "John Doe",
+      "ctry": "NL"
+    },
+    "cdtr": {
+      "acct": "NL12ABNA0123456700",
+      "agt": "ABNANL2A",
+      "nm": "J. Cole",
+      "ctry": "NL",
+      "email": "j@company.nl"
+    }
+  
+  ]
+}
